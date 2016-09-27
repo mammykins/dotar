@@ -1,0 +1,11 @@
+Package: dotar
+Date: 2016-06-13
+Title: Provides tools to aid decision making and understanding in Dota2.
+Version: 0.0.0.9000
+Authors@R: person("Matthew", "Gregory", email = "matthew.gregory@teachfirst.org.uk", role = c("aut", "cre"))
+Description: This package provides basic functions to help elucidate the underlying mechanics of Dota 2. This include functions that mainly focus on quantifying the effective health points (hp) of a hero and what items to buy to help optimise effective hp while best utilising available gold.
+Depends:
+    R (>= 3.2.3)
+License: MIT License
+LazyData: true
+RoxygenNote: 5.0.1
