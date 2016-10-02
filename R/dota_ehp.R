@@ -41,7 +41,7 @@ damred <- function(armour){
 #' @seealso
 #' @export
 #' @examples
-#' hp.multiplier(-30)
+#' hp_multiplier(-30)
 hp_multiplier <- function(armour){
   ((1) / (1 - damred(armour)))
 }
